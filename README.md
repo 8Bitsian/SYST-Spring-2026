@@ -1,7 +1,7 @@
 ## 🔍 Syst-Spring-2026
 
 ℹ️ Coursework and assignments for my IT Analysis, Design, and Project Management class, including weekly exercises and project submissions.<br/>
-📗 I am referencing System Analysis & Deisgn in a Changing World 7E by Y. Daniel Liang and the [companion website](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/).<br/>
+📗 I am referencing System Analysis & Deisgn in a Changing World 7E by J. Satzinger, R. Jackson, and S. Burd.<br/>
 
 📂 Lessons will be listed below:
 - [Lesson 1](./lesson01/) - An Overview of Systems Analysis and Design
